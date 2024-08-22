@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68316417205",
+    "project_id": "qubefyn-kitchen",
+    "storage_bucket": "qubefyn-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68316417205:android:c7da73a83d5b780a1202fc",
+        "android_client_info": {
+          "package_name": "com.example.qubefyn_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDucs2_W-pOqQj5eiPFSGIcwmSbi_b-qYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
